@@ -1,13 +1,13 @@
 return {
     Spritesheets = {
-        [1] = "icons/gravity/gravity_spritesheet1.png",
-        [2] = "icons/gravity/gravity_spritesheet2.png",
-        [3] = "icons/gravity/gravity_spritesheet3.png",
-        [4] = "icons/gravity/gravity_spritesheet4.png",
-        [5] = "icons/gravity/gravity_spritesheet5.png",
-        [6] = "icons/gravity/gravity_spritesheet6.png",
-        [7] = "icons/gravity/gravity_spritesheet7.png",
-        [8] = "icons/gravity/gravity_spritesheet8.png",
+        [1] = "gravity/gravity_spritesheet1.png",
+        [2] = "gravity/gravity_spritesheet2.png",
+        [3] = "gravity/gravity_spritesheet3.png",
+        [4] = "gravity/gravity_spritesheet4.png",
+        [5] = "gravity/gravity_spritesheet5.png",
+        [6] = "gravity/gravity_spritesheet6.png",
+        [7] = "gravity/gravity_spritesheet7.png",
+        [8] = "gravity/gravity_spritesheet8.png",
     },
 
     Icons = {
