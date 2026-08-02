@@ -1,9 +1,4 @@
 return {
-    Spritesheets = {
-        [1] = "rbxassetid://YOUR_ID_1",
-        [2] = "rbxassetid://YOUR_ID_2",
-    },
-
     Icons = {
         ["abbr-api"] = {
             ImageRectPosition = Vector2.new(0, 0),
