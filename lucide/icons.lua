@@ -1,13 +1,4 @@
 return {
-    Spritesheets = {
-        [1] = "rbxassetid://YOUR_ID_1",
-        [2] = "rbxassetid://YOUR_ID_2",
-        [3] = "rbxassetid://YOUR_ID_3",
-        [4] = "rbxassetid://YOUR_ID_4",
-        [5] = "rbxassetid://YOUR_ID_5",
-        [6] = "rbxassetid://YOUR_ID_6",
-    },
-
     Icons = {
         ["a-arrow-down"] = {
             ImageRectPosition = Vector2.new(0, 0),
