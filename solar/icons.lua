@@ -1,26 +1,4 @@
 return {
-    Spritesheets = {
-        [1] = "rbxassetid://YOUR_ID_1",
-        [2] = "rbxassetid://YOUR_ID_2",
-        [3] = "rbxassetid://YOUR_ID_3",
-        [4] = "rbxassetid://YOUR_ID_4",
-        [5] = "rbxassetid://YOUR_ID_5",
-        [6] = "rbxassetid://YOUR_ID_6",
-        [7] = "rbxassetid://YOUR_ID_7",
-        [8] = "rbxassetid://YOUR_ID_8",
-        [9] = "rbxassetid://YOUR_ID_9",
-        [10] = "rbxassetid://YOUR_ID_10",
-        [11] = "rbxassetid://YOUR_ID_11",
-        [12] = "rbxassetid://YOUR_ID_12",
-        [13] = "rbxassetid://YOUR_ID_13",
-        [14] = "rbxassetid://YOUR_ID_14",
-        [15] = "rbxassetid://YOUR_ID_15",
-        [16] = "rbxassetid://YOUR_ID_16",
-        [17] = "rbxassetid://YOUR_ID_17",
-        [18] = "rbxassetid://YOUR_ID_18",
-        [19] = "rbxassetid://YOUR_ID_19",
-    },
-
     Icons = {
         ["4k-bold"] = {
             ImageRectPosition = Vector2.new(0, 0),
